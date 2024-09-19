@@ -1,16 +1,22 @@
-## Hi there 👋
+:wave: Hola! Soy Nebula
 
-<!--
-**nebula0366/nebula0366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=nebula&color=blueviolet&style=flat-square)
 
-Here are some ideas to get you started:
+I am a front-end engineer, I love JavaScript, I love learning new technologies, and I am committed to developing websites or applications with beautiful interfaces and a good user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente uso y aprendo:
+
+- Html
+- CSS
+- Javascript
+- Lua
+
+:rocket: Uso estas herramientas:
+
+&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
+
+:bar_chart: GitHub stats
+
+![Reg Chiu's github stats](https://github-readme-stats.vercel.app/api?username=nebula0366&show_icons=true&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebula0366&layout=compact&title_color=19F9D8&icon_color=19F9D8&bg_color=002B36&text_color=FFFFFF)
